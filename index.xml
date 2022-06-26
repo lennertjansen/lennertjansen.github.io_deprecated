@@ -3,15 +3,7 @@
         <title>Lennert&#39;s Portfolio &amp; Blog</title>
         <link>https://lennertjansen.com/</link>
         <description>Lennert&#39;s Portfolio &amp; Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 26 Jun 2022 19:17:53 &#43;0200</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language>
             <atom:link href="https://lennertjansen.com/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>This is the post title</title>
-    <link>https://lennertjansen.com/posts/mypost/</link>
-    <pubDate>Sun, 26 Jun 2022 19:17:53 &#43;0200</pubDate>
-    <author>Author</author>
-    <guid>https://lennertjansen.com/posts/mypost/</guid>
-    <description><![CDATA[This is some damn good content.]]></description>
-</item>
-</channel>
+        </channel>
 </rss>
